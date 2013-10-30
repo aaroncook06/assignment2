@@ -8,6 +8,7 @@ import javax.persistence.Query;
 import java.util.LinkedList;
 import java.util.List;
 
+//comment test
 public class Main1Create {
 
 	public static void main(String[] args) {
